@@ -1,0 +1,173 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>National Foundation Phase Maths Olympiad - Grade two - final round - 2006</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35670</md:content-id>
+  <md:title>National Foundation Phase Maths Olympiad - Grade two - final round - 2006</md:title>
+  <md:abstract>Maths olympiad questions for grade two</md:abstract>
+  <md:uuid>a8c69213-f580-4037-be4b-940d64d69b78</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168357646601">
+      <title>INSTITUTE FOR ADVANCEMENT OF MATHEMATICS AND SCIENCE (IAMS) NATIONAL FOUNDATION PHASE MATHEMATICS OLYMPIAD</title>
+      <figure id="id1168348694792">
+        <media id="id1168348694792_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1.png" id="id1168348694792__onlineimage" height="173" width="195"/>
+        </media>
+      </figure>
+    </section>
+    <section id="id1168361389094">
+      <title>GRADE TWO – FINAL ROUND PAPER: 2006 QUESTION BOOKLET</title>
+      <para id="id1168348434753">DURATION: 1 HOUR 15 MINUTES </para>
+      <para id="id1168343868750">MARKS: 20</para>
+      <para id="id1168348762454">NAME OF LEARNER:___________________________________ </para>
+      <para id="id1168343498826">NAME OF SCHOOL:____________________________________</para>
+    </section>
+    <section id="id8148496">
+      <title>INSTRUCTIONS TO LEARNERS:</title>
+      <para id="id1168348814526">1. You are expected to answer 15 questions.</para>
+      <para id="id4725235">2. These are multiple choice questions. Circle the correct answer.</para>
+      <para id="id1168342207532">3. Use blank pages for working. Circle the answer after you have done the working.</para>
+      <para id="id1168357707305">4. You are not allowed to use the calculator.</para>
+      <para id="id1168343890237">5. Read the question carefully before answering. Don’t rush.</para>
+      <para id="id1168343861344">6. Your teacher will read the question to you.</para>
+      <para id="id3126284">7. First 10 questions – 1 mark each.</para>
+      <para id="id1168337249256">8. Questions 11-20: 2 marks each.</para>
+      <para id="id3257527">ENJOY THE OLYMPIAD</para>
+    </section>
+    <section id="id1168335603098">
+      <title>Test Questions:</title>
+      <section id="id1168352116554">
+        <title>Exercise 1</title>
+        <para id="id1168352846130">Write down the 7<sup>th</sup> term of the sequence:</para>
+        <para id="id1168341210376">7; 10; 13; 16; . . .</para>
+      </section>
+      <section id="id1168339298721">
+        <title>Exercise 2</title>
+        <para id="id1168341077701">Write down the unit’s digit of the 45<sup>th</sup> number.</para>
+        <para id="id3948733">5; 10; 15; 20; . . . </para>
+      </section>
+      <section id="id1168336390769">
+        <title>Exercise 3</title>
+        <para id="id2923954">Terry counted in 2’s as follows:</para>
+        <para id="id1168342890585">2; 4; 6; 8; 10; . . .</para>
+        <para id="id1168343736182">What position does the number 130 occupy? </para>
+      </section>
+      <section id="id1168347883625">
+        <title>Exercise 4</title>
+        <para id="id1168341468507">Each letter in the following addition problem represents a digit. Find the digit B.</para>
+        <figure id="id1168343348810">
+          <media id="id1168343348810_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics5-6877.png" id="id1168343348810__onlineimage" height="64" width="61"/>
+          </media>
+        </figure>
+      </section>
+      <section id="id1168333411428">
+        <title>Exercise 5</title>
+        <para id="id1168343458493">Find the value of 
+<m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mo stretchy="false">Δ</m:mo><m:annotation encoding="StarMath 5.0">%DELTA</m:annotation></m:semantics></m:math>:</para>
+        <equation id="id1168348405747">
+          <m:math xmlns:m="http://www.w3.org/1998/Math/MathML">
+            <m:semantics>
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>45</m:mn>
+                  <m:mo stretchy="false">−</m:mo>
+                  <m:mo stretchy="false">Δ</m:mo>
+                </m:mrow>
+                <m:mo stretchy="false">=</m:mo>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:mo stretchy="false">Δ</m:mo>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mo stretchy="false">Δ</m:mo>
+                        </m:mrow>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:mo stretchy="false">Δ</m:mo>
+                      </m:mrow>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mo stretchy="false">Δ</m:mo>
+                    </m:mrow>
+                    <m:mo stretchy="false">+</m:mo>
+                    <m:mo stretchy="false">Δ</m:mo>
+                  </m:mrow>
+                  <m:mo stretchy="false">−</m:mo>
+                  <m:mo stretchy="false">Δ</m:mo>
+                </m:mrow>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0">45 - %DELTA = %DELTA + %DELTA + %DELTA + %DELTA + %DELTA - %DELTA</m:annotation>
+            </m:semantics>
+          </m:math>
+        </equation>
+      </section>
+      <section id="id1168335042438">
+        <title>Exercise 6</title>
+        <para id="id1168343560904">To move from one block to the next the rule is double the number and subtract one.</para>
+        <figure id="id1168336311888">
+          <media id="id1168336311888_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics6-ec60.png" id="id1168336311888__onlineimage" height="56" width="404"/>
+          </media>
+        </figure>
+        <para id="id1168348956214">What number is in block 4?</para>
+      </section>
+      <section id="id1168344041949">
+        <title>Exercise 7</title>
+        <para id="id1168352625401">Give the largest two digit even number such that the sum of the digits is 9 .</para>
+      </section>
+      <section id="id1168344943424">
+        <title>Exercise 8</title>
+        <para id="id1168350191004">How many blocks are there in this stack?</para>
+        <para id="id1168348640189">
+          <figure id="id1168337449871">
+            <media id="id1168337449871_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics2-0566.png" id="id1168337449871__onlineimage" height="163" width="207"/>
+            </media>
+          </figure>
+        </para>
+      </section>
+      <section id="id1168335651809">
+        <title>Exercise 9</title>
+        <para id="id1168344188068">2 more than ¼ of the cakes is 6. How many cakes are there?</para>
+      </section>
+      <section id="id1168352593875">
+        <title>Exercise 10</title>
+        <para id="id1168342781156">Guess the number I stand for.</para>
+        <para id="id2355341">* I am a 3 digit number.</para>
+        <para id="id1168332907830">* My hundred’s digit is 1 more than my unit’s digit.</para>
+        <para id="id2994007">* My ten’s digit can be counted in 3’s.</para>
+        <para id="id1168343024858">* The sum of my digits is 16.</para>
+      </section>
+      <section id="id1168348648694">
+        <title>Exercise 11</title>
+        <para id="id1168344548321">Try to find out what * is doing to the 2 numbers.</para>
+        <para id="id1168352734613">3 * 4 = 5 </para>
+        <para id="id1168360740217">7 * 3 = 8</para>
+        <para id="id1168337267587">1 * 1 = 0</para>
+        <para id="id1168341304804">4 * 4 = 6</para>
+        <para id="id1168343410645">Now determine the answer to :</para>
+        <para id="id1168341329114">8 * 5</para>
+      </section>
+      <section id="id1168343468018">
+        <title>Exercise 12</title>
+        <para id="id1168343548412">In a 50 metre race Jen beat Tara by 4 metres. Tara beat Cindy by 3 metres. If all three walk at the same pace then how far will Cindy be behind Jen in a 100 metre race ?</para>
+      </section>
+      <section id="id1168341833210">
+        <title>Exercise 13</title>
+        <para id="id1168349699489">White and green beads are arranged as in the following diagram.</para>
+        <para id="id1921895">W W G G G W W G G G W W ….</para>
+        <para id="id1168336986291">If this arrangement has 102 beads then work out the number of green beads .</para>
+      </section>
+      <section id="id1168337063023">
+        <title>Exercise 14</title>
+        <para id="id1168343974098">Five friends live on the same straight road. Ren lives to the right of Lindy. Pat lives to the right of Lindy but to the left of Jessy. Al lives to the left of Lindy. Pat lives between Al and Ren. Who lives between Pat and Jessy ?</para>
+      </section>
+      <section id="id1168358320651">
+        <title>Exercise 15</title>
+        <para id="id1168347475527">Stan collected R10 more for charity than Liz. Liz collected R20 less for charity than Connie. A total of R270 was collected for charity.What amount was collected by Liz ?</para>
+      </section>
+    </section>
+  </content>
+</document>
